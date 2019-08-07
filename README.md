@@ -13,7 +13,8 @@ Disclaimer: This was made as an internal reference made by the [@authereum](http
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |ENS Integration                | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❓ |
 |Chrome Extension Not Required  | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❓ |
-|Mobile Friendly                | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❓ | ❓ |
+|Supports all Mbile Browsers    | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❓ | ❓ |
+|Can Integrate with Native Apps | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❓ | ❓ |
 |No Phone Number Required       | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❓ | ❓ | ❓ |
 |Account Recovery               | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ |
 |No Seed Phrase                 | ✅ | ❓ | ❌ | ❌ | ❓ | ❓ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | ❓ |
