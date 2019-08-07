@@ -23,12 +23,12 @@ Disclaimer: This was made as an internal reference made by the [@authereum](http
 |Testnet Availability           | ✅ | ✅ | ✅ | ❓ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❓ | ❓ | ❓ |
 |Contract-based Accounts        | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❓ | ❓ |
 |Pay Gas in Tokens              | 🔜 | ✅ | ❌ | ❓ | ❌ | ❓ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❓ | ❓ | ❓ |
-|Web2.0 Based Login             | ✅ | ❌ | ✅ | ❓ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | ❓ |
+|Web2.0 Style Login             | ✅ | ❌ | ✅ | ❓ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | ❓ |
 |Purchase ETH/Tokens In App     | 🔜 | ❌ | ✅ | ❓ | ✅ | 🔜 | ❓ | ✅ | ✅ | ❌ | ❌ | ❌ | ❓ | ❌ | ❓ |
 |Web3 Provider Available        | ✅ | ❌ | ❓ | ❓ | ✅ | ❌ | ✅ | ❓ | ❓ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ |
 |Software Token 2FA             | ✅ | ❓ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
 |Hardware Token 2FA             | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-|Hardware Wallet Integration    | 🔜 | ❓ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
+|Hardware Wallet Integration    | 🔜 | ❓ | ❓ | ❓ | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
 
 ## Contributing
 
