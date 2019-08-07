@@ -1,11 +1,13 @@
 # ethereum-wallet-comparison
 
-## This was made as an internal reference made by the Authereum team. It is not complete and is looking for additions.
+
+### Note This was made as an internal reference made by the Authereum team. It is not complete and is looking for additions.
+
 
 ## To contribute
-* Please make a PR to make any updates to your wallet or any known wallets.
+* Please submit a PR to make any updates to your wallet or any known wallets.
 
-## Table
+## Comparison
 
 |FIELD1|Authereum                    |Metamask|Portis                                       |Dapper|Argent|Coinbase Wallet|Status|Trust Wallet|Ledger|Gnosis Safe|ETHVault             |NiftyWallet|
 |------|-----------------------------|--------|---------------------------------------------|------|------|---------------|------|------------|------|-----------|---------------------|-----------|
