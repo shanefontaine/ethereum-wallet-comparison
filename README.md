@@ -11,7 +11,7 @@ It is not complete and is looking for additions!
 
 ## Comparison
 
-|  | [Authereum](https://authereum.org) | Universal Login | Portis | Argent | Metamask | Abridged | Fortmatic | Dapper | Coinbase Wallet | Status | Trust Wallet | Ledger | Gnosis Safe | ETHVault | NiftyWallet |
+|  | [Authereum](https://authereum.org) | [Universal Login](https://universallogin.io/) | [Portis](https://www.portis.io/) | [Argent](https://www.argent.xyz/) | [Metamask](https://metamask.io/) | [Abridged](https://abridged.github.io/splash/) | [Fortmatic](https://fortmatic.com/) | [Dapper](https://www.dapperlabs.com/) | [Coinbase Wallet](https://wallet.coinbase.com/) | [Status](https://status.im/) | [Trust Wallet](https://trustwallet.com/) | [Ledger](https://www.ledger.com/) | [Gnosis Safe](https://safe.gnosis.io/) | ETHVault | NiftyWallet |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |ENS Integration                | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❓ |
 |No Chrome Extension Required   | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❓ |
