@@ -27,10 +27,10 @@ It is not complete and is looking for additions!
 |Pay Gas in Tokens              | 🔜 | ✅ | ❌ | ❓ | ❌ | ❓ | ❓ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❓ | ❓ |
 |Web2.0 Style Login             | ✅ | ❌ | ✅ | ❓ | ❌ | ✅ | ❓ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ |
 |Purchase ETH/Tokens In App     | 🔜 | ❌ | ✅ | ❓ | ✅ | 🔜 | ❓ | ❓ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❓ |
-|Web3 Provider Available        | ✅ | ❌ | ❓ | ❓ | ✅ | ❌ | ❌ | ✅ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
-|Software Token 2FA             | ✅ | ❓ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
+|Web3 Provider Available        | ✅ | ❌ | ✅ | ❓ | ✅ | ❌ | ❌ | ✅ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
+|Software Token 2FA             | ✅ | ❌ | ✅ | ❓ | ❓ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
 |Hardware Token 2FA             | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-|Hardware Wallet Integration    | 🔜 | ❓ | ❓ | ❓ | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
+|Hardware Wallet Integration    | 🔜 | ❌ | ❌ | ❓ | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
 |Transaction Firewall           | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ## Contributing
