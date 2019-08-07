@@ -9,7 +9,8 @@ Disclaimer: This was made as an internal reference by the [@authereum](https://t
 
 It is not complete and is looking for additions!
 
-## Comparison
+## Comparison 
+<div align="right"><img width="32" height="32" src="media/scroll.png"></div>
 
 |  | [Authereum](https://authereum.org) | [Universal Login](https://universallogin.io/) | [Portis](https://www.portis.io/) | [Argent](https://www.argent.xyz/) | [Metamask](https://metamask.io/) | [Abridged](https://abridged.github.io/splash/) | [Gnosis Safe](https://safe.gnosis.io/) | [Fortmatic](https://fortmatic.com/) | [Torus](https://tor.us) | [Dapper](https://www.dapperlabs.com/) | [Coinbase Wallet](https://wallet.coinbase.com/) | [Status](https://status.im/) | [Trust Wallet](https://trustwallet.com/) | [Ledger](https://www.ledger.com/) | [Squarelink](https://squarelink.com) | [ETHVault](https://ethvault.xyz) | [NiftyWallet](https://github.com/poanetwork/nifty-wallet) |
 |---| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -19,18 +20,18 @@ It is not complete and is looking for additions!
 |Can Integrate with Native Apps | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❓ | ❌ |
 |No Phone Number Required       | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 |Account Recovery               | 🔜 | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ |
-|No Seed Phrase Backup          | ✅ | ❓ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ |
-|Non-custodial                  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❓ | ✅ | ✅ | ✅ | ✅ |
-|Exportable Wallet              | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ |
+|No Seed Phrase Backup          | ✅ | ❓ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
+|Non-custodial                  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+|Exportable Wallet              | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
 |Testnet Availability           | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ |
 |Contract-based Accounts        | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |Pay Gas in Tokens              | 🔜 | ✅ | ❌ | ❌ | ❌ | 🔜 | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |Web2.0 Style Login             | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ |
-|Purchase ETH/Tokens In App     | 🔜 | ❌ | ✅ | ✅ | 🔜 | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ |
-|Web3 Provider Available        | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❓ | ❓ | ❌ | ✅ | ❌ | ✅ |
-|Software Token 2FA             | ✅ | ❌ | ✅ | ❌ | ❌ | 🔜 | ❌ | ❌ | ❌ | ❌ | ❌ | ❓ | ❓ | ❌ | ✅ | ❌ | ❌ |
+|Purchase ETH/Tokens In App     | 🔜 | ❌ | ✅ | ✅ | 🔜 | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ |
+|Web3 Provider Available        | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❓ | ✅ | ❌ | ✅ | ❌ | ✅ |
+|Software Token 2FA             | ✅ | ❌ | ✅ | ❌ | ❌ | 🔜 | ❌ | ❌ | ❌ | ❌ | ❌ | ❓ | ❌ | ❌ | ✅ | ❌ | ❌ |
 |Hardware Token 2FA             | ✅ | ❌ | ❌ | ❌ | ❌ | 🔜 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-|Hardware Wallet Integration    | 🔜 | ❌ | ❌ | ❌ | ✅ | 🔜 | ❌ | ❌ | ❌ | ✅ | ❌ | ❓ | ❓ | ✅ | ❌ | ❌ | ✅ |
+|Hardware Wallet Integration    | 🔜 | ❌ | ❌ | ❌ | ✅ | 🔜 | ❌ | ❌ | ❌ | ✅ | ❌ | ❓ | ❌ | ✅ | ❌ | ❌ | ✅ |
 |Transaction Firewall           | ✅ | ❌ | ❌ | ✅ | ❌ | 🔜 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ## Contributing
