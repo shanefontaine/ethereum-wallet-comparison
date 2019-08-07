@@ -9,26 +9,26 @@ Disclaimer: This was made as an internal reference made by the [@authereum](http
 
 
 ## Comparison
-|FIELD1 | [Authereum](https://authereum.org) | Universal Login | Abridged | Fortmatic | Metamask | Portis | Dapper | Argent | Coinbase Wallet | Status | Trust Wallet | Ledger | Gnosis Safe | ETHVault | NiftyWallet |
+|FIELD1 | [Authereum](https://authereum.org) | Universal Login | Portis | Argent | Metamask | Abridged | Fortmatic | Dapper | Coinbase Wallet | Status | Trust Wallet | Ledger | Gnosis Safe | ETHVault | NiftyWallet |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|ENS Integration                | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❓ |
-|No Chrome Extension Required   | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❓ |
-|Supports all Mobile Browsers   | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❓ | ❓ |
-|Can Integrate with Native Apps | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❓ | ❓ |
+|ENS Integration                | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❓ |
+|No Chrome Extension Required   | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❓ |
+|Supports all Mobile Browsers   | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❓ | ❓ |
+|Can Integrate with Native Apps | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❓ | ❓ |
 |No Phone Number Required       | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❓ | ❓ | ❓ |
 |Account Recovery               | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ |
-|No Seed Phrase Backup          | ✅ | ❓ | ✅ | ✅ | ❌ | ❌ | ❓ | ❓ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | ❓ |
-|Non-custodial                  | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❓ | ✅ | ✅ | ❓ | ❓ |
-|Exportable Wallet              | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❓ | ❌ | ❌ | ❌ | ✅ | ❓ | ❓ | ❓ |
-|Testnet Availability           | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❓ | ✅ | ✅ | ❌ | ✅ | ❓ | ❓ | ❓ |
-|Contract-based Accounts        | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❓ | ❓ |
-|Pay Gas in Tokens              | 🔜 | ✅ | ❓ | ❌ | ❌ | ❌ | ❌ | ❓ | ❌ | ❌ | ❌ | ❌ | ❓ | ❓ | ❓ |
-|Web2.0 Based Login             | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ❓ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | ❓ |
-|Purchase ETH/Tokens In App     | 🔜 | ❌ | 🔜 | ❓ | ✅ | ✅ | ✅ | ❓ | ✅ | ❌ | ❌ | ❌ | ❓ | ❌ | ❓ |
-|Web3 Provider Available        | ✅ | ❌ | ❌ | ✅ | ✅ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ |
-|Software Token 2FA             | ✅ | ❓ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
-|Hardwre Token 2FA              | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-|Hardware Wallet Integration    | 🔜 | ❓ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
+|No Seed Phrase Backup          | ✅ | ❓ | ❌ | ❓ | ❌ | ✅ | ✅ | ❓ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | ❓ |
+|Non-custodial                  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❓ | ✅ | ✅ | ❓ | ❓ |
+|Exportable Wallet              | ✅ | ✅ | ✅ | ❓ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❓ | ❓ | ❓ |
+|Testnet Availability           | ✅ | ✅ | ✅ | ❓ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❓ | ❓ | ❓ |
+|Contract-based Accounts        | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❓ | ❓ |
+|Pay Gas in Tokens              | 🔜 | ✅ | ❌ | ❓ | ❌ | ❓ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❓ | ❓ | ❓ |
+|Web2.0 Based Login             | ✅ | ❌ | ✅ | ❓ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❓ | ❓ | ❓ |
+|Purchase ETH/Tokens In App     | 🔜 | ❌ | ✅ | ❓ | ✅ | 🔜 | ❓ | ✅ | ✅ | ❌ | ❌ | ❌ | ❓ | ❌ | ❓ |
+|Web3 Provider Available        | ✅ | ❌ | ❓ | ❓ | ✅ | ❌ | ✅ | ❓ | ❓ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ |
+|Software Token 2FA             | ✅ | ❓ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
+|Hardware Token 2FA             | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|Hardware Wallet Integration    | 🔜 | ❓ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
 
 ## Contributing
 
