@@ -9,7 +9,7 @@ Disclaimer: This was made as an internal reference made by the [@authereum](http
 
 
 ## Comparison
-|FIELD1 | [Authereum](https://authereum.org) | Universal Login | Portis | Argent | Metamask | Abridged | Fortmatic | Dapper | Coinbase Wallet | Status | Trust Wallet | Ledger | Gnosis Safe | ETHVault | NiftyWallet |
+|  | [Authereum](https://authereum.org) | Universal Login | Portis | Argent | Metamask | Abridged | Fortmatic | Dapper | Coinbase Wallet | Status | Trust Wallet | Ledger | Gnosis Safe | ETHVault | NiftyWallet |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |ENS Integration                | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❓ |
 |No Chrome Extension Required   | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❓ |
@@ -29,6 +29,7 @@ Disclaimer: This was made as an internal reference made by the [@authereum](http
 |Software Token 2FA             | ✅ | ❓ | ❓ | ❓ | ❓ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
 |Hardware Token 2FA             | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |Hardware Wallet Integration    | 🔜 | ❓ | ❓ | ❓ | ✅ | ❌ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ |
+|Transaction Firewall           | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ## Contributing
 
