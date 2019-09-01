@@ -39,9 +39,28 @@ It is not complete and is looking for additions!
 
 ## Description of each item
 
-TODO
-
-* Off-chain Login: An on-chain transaction is not needed for logins from different devices.
+* ENS Integration: ENS has been integrated into the wallet and users may be able to natively create an ENS name
+* No Chrome Extension Required: Works without a required Chrome extension
+* Supports all Mobile Browsers: Supports every mobile browser
+* Can Integrate with Native Apps: Can be natively itegrated into a dapp without modifications
+* No Phone Number Required: No phone number is required to create an account
+* Account Recovery: There are options available to recover an account
+* No Seed Phrase Backup: There is no seed phrase to show a user
+* Non-custodial: The wallet is non-custodial
+* Exportable Wallet: A user can export their wallet from the platform
+* Testnet Availability: The wallet is available on a testnet
+* Contract-based Accounts: Accounts are contract-based (as opposed to EOAs)
+* Pay Gas in Tokens: Users have the ability to pay gas fees in tokens
+* Web2.0 Style Login: Users can log in with a familiary username and password combination
+* Purchase ETH/Tokens In App: Users have the ability to purchase ETH and tokens from within the wallet
+* Web3 Provider Available: The wallet offers a web3 provider
+* Software Token 2FA: The wallet provides a software token 2FA
+* Hardware Token 2FA: The wallet provides a hardware token 2FA
+* Hardware Wallet Integration: The wallet allows the use of hardware wallets
+* Transaction Firewall: Trnsactions can be checked against a firewall to prevent malicious behavior
+* Off-chain Login: An on-chain transaction is not needed for logins from different devices
+* No Mobile App Required: A mobile app is not required when using the wallet
+* No Hardware Required: No hardware is required when using the wallet
 
 ## Contributing
 
