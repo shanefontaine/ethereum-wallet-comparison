@@ -38,6 +38,8 @@ It is not complete and is looking for additions!
 |No Hardware Required            | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
 |Sandboxed Key Storage           | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
 |Upgradeable/Modular Contracts   | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|Batched Transactions            | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
 
 ## Description of each item
 
@@ -63,8 +65,9 @@ It is not complete and is looking for additions!
 * Off-hain Login: An on-chain transaction is not needed for logins from different devices
 * No Mobile App Required: A mobile app is not required when using the wallet
 * No Hardware Required: No hardware is required when using the wallet
-* Sandboxed Key Storage: Keys are sandboxed in secured storage or iframes and not easily accessible.
-* Upgradeable/Modular Contracts: (Only applicable to contract based accounts) The user's contract is upgradeable or modular
+* Sandboxed Key Storage: Keys are sandboxed in secured storage or iframes and not easily accessible
+* Upgradeable/Modular Contracts: (Only applicable to contract-based accounts) The user's contract is upgradeable or modular
+* Batched Transactions: (Only applicable to contract-based accounts) Send multiple transactions atomically in a signle on-chain transaction
 
 ## Contributing
 
