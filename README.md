@@ -45,7 +45,7 @@ It is not complete and is looking for additions!
 
 * ENS Integration: ENS has been integrated into the wallet and users may be able to natively create an ENS name
 * No Chrome Extension Required: Works without a required Chrome extension
-* Supports all Mobile Browsers: Supports every mobile browser
+* Supports all modern Mobile Browsers: Supports every mobile browser
 * Can Integrate with Native Apps: Can be natively itegrated into a dapp without modifications
 * No Phone Number Required: No phone number is required to create an account
 * Account Recovery: There are options available to recover an account
