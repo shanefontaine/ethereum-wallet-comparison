@@ -52,7 +52,7 @@ _Click [here](https://docs.google.com/spreadsheets/d/16wljlyeSz7bjZkijx2YtL9lmSz
 * No Phone Number Required: No phone number is required to create an account
 * Account Recovery: There are options available to recover an account
 * No Seed Phrase Backup: There is no seed phrase to show a user
-* Non-custodial: The wallet is non-custodial
+* Non-custodial: The wallet is non-custodial and no 3rd party has any access to the account
 * Exportable Wallet: A user can export their wallet from the platform
 * Testnet Availability: The wallet is available on a testnet
 * Contract-based Accounts: Accounts are contract-based (as opposed to EOAs)
