@@ -33,7 +33,7 @@ _Click [here](https://docs.google.com/spreadsheets/d/16wljlyeSz7bjZkijx2YtL9lmSz
 |Web3 Provider Available         | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ |
 |Software Token 2FA              | ✅ | ❌ | ✅ | ❌ | ❌ | 🔜 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 |Hardware Token 2FA              | ✅ | ❌ | ❌ | ❌ | ❌ | 🔜 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-|Hardware Wallet Integration     | 🔜 | ❌ | ❌ | ❌ | ✅ | 🔜 | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
+|Hardware Wallet Integration     | ✅ | ❌ | ❌ | ❌ | ✅ | 🔜 | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
 |Transaction Firewall            | ✅ | ❌ | ❌ | ✅ | ❌ | 🔜 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |Off-chain Login                 | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 |No Mobile App Required          | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
@@ -41,7 +41,7 @@ _Click [here](https://docs.google.com/spreadsheets/d/16wljlyeSz7bjZkijx2YtL9lmSz
 |Sandboxed Key Storage           | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
 |Upgradeable/Modular Contracts   | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |Batched Transactions            | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-
+|Open Sourced                    | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ## Description of each item
 
@@ -70,6 +70,7 @@ _Click [here](https://docs.google.com/spreadsheets/d/16wljlyeSz7bjZkijx2YtL9lmSz
 * Sandboxed Key Storage: Keys are sandboxed in secured storage or iframes and not easily accessible
 * Upgradeable/Modular Contracts: (Only applicable to contract-based accounts) The user's contract is upgradeable or modular
 * Batched Transactions: (Only applicable to contract-based accounts) Send multiple transactions atomically in a signle on-chain transaction
+* Open Sourced: The core code is open sourced.
 
 ## Contributing
 
