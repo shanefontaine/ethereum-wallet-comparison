@@ -14,7 +14,7 @@ _Click [here](https://docs.google.com/spreadsheets/d/16wljlyeSz7bjZkijx2YtL9lmSz
 
 <div align="right"><img width="32" height="32" src="media/scroll.png"></div>
 
-|  | [Authereum](https://authereum.org) | [Universal Login](https://universallogin.io/) | [Portis](https://www.portis.io/) | [Argent](https://www.argent.xyz/) | [Metamask](https://metamask.io/) | [Abridged](https://abridged.github.io/splash/) | [Gnosis Safe](https://safe.gnosis.io/) | [Fortmatic](https://fortmatic.com/) | [Torus](https://tor.us) | [Dapper](https://www.dapperlabs.com/) | [Coinbase Wallet](https://wallet.coinbase.com/) | [Status](https://status.im/) | [Trust Wallet](https://trustwallet.com/) | [Ledger](https://www.ledger.com/) | [Squarelink](https://squarelink.com) | [ETHVault](https://ethvault.xyz) | [NiftyWallet](https://github.com/poanetwork/nifty-wallet) | [Bitski](https://bitski.com) | [BRD](http://breadapp.com) |
+|  | [Authereum](https://authereum.org) | [Universal Login](https://universallogin.io/) | [Portis](https://www.portis.io/) | [Argent](https://www.argent.xyz/) | [Metamask](https://metamask.io/) | [Abridged](https://abridged.github.io/splash/) | [Gnosis Safe](https://safe.gnosis.io/) | [Magic](https://magic.link/) | [Torus](https://tor.us) | [Dapper](https://www.dapperlabs.com/) | [Coinbase Wallet](https://wallet.coinbase.com/) | [Status](https://status.im/) | [Trust Wallet](https://trustwallet.com/) | [Ledger](https://www.ledger.com/) | [Squarelink](https://squarelink.com) | [ETHVault](https://ethvault.xyz) | [NiftyWallet](https://github.com/poanetwork/nifty-wallet) | [Bitski](https://bitski.com) | [BRD](http://breadapp.com) |
 |---| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |ENS Integration                 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ |
 |No Chrome Extension Required    | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
@@ -31,7 +31,7 @@ _Click [here](https://docs.google.com/spreadsheets/d/16wljlyeSz7bjZkijx2YtL9lmSz
 |Web2.0 Style Login              | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ |
 |Purchase ETH/Tokens In App      | ✅ | ❌ | ✅ | ✅ | 🔜 | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ |
 |Web3 Provider Available         | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ |
-|Software Token 2FA              | ✅ | ❌ | ✅ | ❌ | ❌ | 🔜 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+|Software Token 2FA              | ✅ | ❌ | ✅ | ❌ | ❌ | 🔜 | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 |Hardware Token 2FA              | ✅ | ❌ | ❌ | ❌ | ❌ | 🔜 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |Hardware Wallet Integration     | ✅ | ❌ | ❌ | ❌ | ✅ | 🔜 | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
 |Transaction Firewall            | ✅ | ❌ | ❌ | ✅ | ❌ | 🔜 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
