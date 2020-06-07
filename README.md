@@ -64,7 +64,7 @@ _Click [here](https://docs.google.com/spreadsheets/d/16wljlyeSz7bjZkijx2YtL9lmSz
 * Hardware Token 2FA: The wallet provides a hardware token 2FA
 * Hardware Wallet Integration: The wallet allows the use of hardware wallets
 * Transaction Firewall: Trnsactions can be checked against a firewall to prevent malicious behavior
-* Off-hain Login: An on-chain transaction is not needed for logins from different devices
+* Off-Chain Login: An on-chain transaction is not needed for logins from different devices
 * No Mobile App Required: A mobile app is not required when using the wallet
 * No Hardware Required: No hardware is required when using the wallet
 * Sandboxed Key Storage: Keys are sandboxed in secured storage or iframes and not easily accessible
